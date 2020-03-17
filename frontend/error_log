@@ -1,0 +1,1 @@
+[16-Mar-2020 22:12:25 UTC] PHP Fatal error:  Call to undefined method CI_Loader::models() in /home/kharisma/public_html/webserviceci_wiradwis/application/controllers/Edit_pasien.php on line 9
